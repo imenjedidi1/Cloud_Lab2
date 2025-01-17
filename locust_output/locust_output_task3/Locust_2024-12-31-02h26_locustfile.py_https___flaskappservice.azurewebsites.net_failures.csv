@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,/numericalintegralservice/0/3.14159,HTTPError('502 Server Error: Bad Gateway for url: /numericalintegralservice/0/3.14159'),30
